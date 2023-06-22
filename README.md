@@ -2,6 +2,9 @@
 ---
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)] [![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)]
 
+Video Link: https://drive.google.com/file/d/143lCh_sgHR-XUPrEfE87tQsk7vA2wOW3/view?usp=sharing
+Project Link: https://github.com/hnm938/readme-generator-bootcamp
+
 ## Description
 This was the 9th module in the UofT BootCamp, the assignment was
 to create a node.js cli application to generate a README.md file.
