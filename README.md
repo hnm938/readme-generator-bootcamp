@@ -2,7 +2,7 @@
 ---
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)] [![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)]
 
-Video Link: https://drive.google.com/file/d/143lCh_sgHR-XUPrEfE87tQsk7vA2wOW3/view?usp=sharing
+Video Link: https://drive.google.com/file/d/143lCh_sgHR-XUPrEfE87tQsk7vA2wOW3/view?usp=sharing <br>
 Project Link: https://github.com/hnm938/readme-generator-bootcamp
 
 ## Description
